@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Ryan Ladmia</h1>
+<h1 align="center">👋 Hello there, I'm Ryan Ladmia 28 years old</h1>
 <h3 align="center">Full Stack Web & Mobile Developer from Marseille, France</h3>
 <p align="center">I'm currently looking for a <strong>work-study position starting in September</strong> as part of a CDA (Application Developer Designer) training program.</p>
 
