@@ -28,81 +28,81 @@
   <table>
     <tr>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"><br>Bash
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"><br>Bootstrap
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"><br>HTML5
       </td>
       <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"><br>CSS3
       </td>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"><br>Docker
-      </td>
-      <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"><br>Figma
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"><br>Git
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"><br>HTML5
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"><br>PHP
       </td>
       <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"><br>JavaScript
       </td>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40" alt="Jest"><br>Jest
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"><br>Linux
-      </td>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"><br>Git
+      </td
     </tr>
     <tr>
-      <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB"><br>MariaDB
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" width="40" height="40" alt="Materialize"><br>Materialize
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"><br>MongoDB
-      </td>
       <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"><br>MySQL
       </td>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"><br>Nginx
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"><br>Node.js
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"><br>PHP
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB"><br>MariaDB
       </td>
       <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"><br>PostgreSQL
       </td>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"><br>Postman
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"><br>SQLite
       </td>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"><br>React
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"><br>MongoDB
       </td>
     </tr>
     <tr>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"><br>SQLite
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"><br>React
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"><br>Tailwind CSS
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"><br>Node.js
       </td>
       <td align="center" width="80">
         <img src="https://symfony.com/logos/symfony_black_03.svg" width="40" height="40" alt="Symfony"><br>Symfony
       </td>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"><br>Tailwind CSS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"><br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"><br>Bootstrap
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" width="40" height="40" alt="Materialize"<br>Materialize/>
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40" alt="Jest"><br>Jest
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"><br>Postman
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"><br>Bash
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"><br>Linux
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"><br>Nginx
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"><br>Figma
       </td>
     </tr>
   </table>
