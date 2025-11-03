@@ -90,6 +90,9 @@
       <td align="center" width="80">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"><br>Postman
       </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/><br>Vue.js
+      </td>
     </tr>
     <tr>
       <td align="center" width="80">
@@ -103,6 +106,9 @@
       </td>
       <td align="center" width="80">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"><br>Figma
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><br>Go
       </td>
     </tr>
   </table>
